@@ -15,8 +15,8 @@ def add_post(posts)
   end
   
   def add_post_by_title(title) 
-     song = Post.new(title)
-   add_post(posts)
+     post = Post.new(title)
+   add_post(post)
   end
   
 end
