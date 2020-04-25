@@ -19,7 +19,7 @@ def add_post(posts)
    add_post(post)
   end
   
-  def post_count
+  def self.post_count
     
   
 end
