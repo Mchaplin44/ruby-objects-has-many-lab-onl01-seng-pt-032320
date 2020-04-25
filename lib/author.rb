@@ -15,8 +15,7 @@ def add_post(posts)
   end
   
   def add_post_by_title(title) 
-     posts = Post.new(title)
-    posts.author = self
+     ]f
   end
   
 end
